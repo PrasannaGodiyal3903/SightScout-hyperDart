@@ -55,4 +55,3 @@ museums in Paris
 tourist attractions in NYC
 parks in London
 aquariums in Tokyo
-castles in Europe
