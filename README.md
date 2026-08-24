@@ -12,8 +12,7 @@ By default, every newly created component displays **"hyperDart New Component"**
 Users can search queries such as:
 
 - `museums in Paris`
-- `tourist attractions in New York`
-- `zoos in Delhi`
+- `tourist attractions in Tokyo`
 - `things to do in Paris`
 
 SightScout understands the destination and the type of places being requested, then displays relevant nearby locations in an easy-to-browse interface.
@@ -54,7 +53,6 @@ SightScout understands the destination and the type of places being requested, t
 ```text
 museums in Paris
 tourist attractions in NYC
-zoos in Delhi
 parks in London
 aquariums in Singapore
 castles in Europe
