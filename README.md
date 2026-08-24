@@ -14,6 +14,8 @@ Users can search queries such as:
 - `museums in Paris`
 - `tourist attractions in Tokyo`
 - `things to do in Paris`
+  
+Currently, SightScout supports the most common tourism categories through intent-based query matching, with a general attractions fallback for broader queries. The architecture is designed so additional categories can easily be added.
 
 SightScout understands the destination and the type of places being requested, then displays relevant nearby locations in an easy-to-browse interface.
 
