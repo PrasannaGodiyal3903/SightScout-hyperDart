@@ -54,5 +54,5 @@ SightScout understands the destination and the type of places being requested, t
 museums in Paris
 tourist attractions in NYC
 parks in London
-aquariums in Singapore
+aquariums in Tokyo
 castles in Europe
